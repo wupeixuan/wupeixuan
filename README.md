@@ -6,4 +6,4 @@
 - 欢迎关注我的微信公众号『武培轩』
 - 博客：www.tianheyu.top
 
-[![wupeixuan github stats](https://github-readme-stats.vercel.app/api?username=wupeixuan)](www.tianheyu.top)
+[![wupeixuan github stats](https://github-readme-stats.vercel.app/api?username=wupeixuan)](//www.tianheyu.top)
